@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": ["."],
+  "java.project.referencedLibraries": [
+    "c:\\Users\\ganja\\Downloads\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0.jar",
+    "c:\\Users\\ganja\\Desktop\\Java-Menu-Driven-Banking-Application-with-JDBC-main\\Java-Menu-Driven-Banking-Application-with-JDBC-main\\lib\\mysql-connector-j-9.2.0.jar"
+  ]
+}
